@@ -8,6 +8,8 @@ A test repo space for the Wagner's to test and play around.
 
     -   JW to ask HW about best practices migrating files between repos, as my current scripts for spotify analysis is in a different repo.
 
+    -   Let's also use the next call [2023-08-18] to focus on pull requesting and merging the README.md file.
+
 -   I'd like our motto to be something like: "Keep it simple, focus on learning".
 
     -   I'd like to focus on small projects focused on a specific theme.
