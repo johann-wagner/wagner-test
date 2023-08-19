@@ -21,6 +21,7 @@ A test repo space for the Wagner's to test and play around.
 ## Questions for HW:
 
 -   Is NodeJS for JavaScript the equivalent of RStudio for R?
+    https://www.geeksforgeeks.org/difference-between-node-js-and-javascript/ 
 
 -   Do you have any simple examples of the uses of JavaScript that you've directly worked on?
 
